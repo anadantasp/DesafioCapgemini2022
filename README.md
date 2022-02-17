@@ -21,7 +21,7 @@
  
  <h3>Instruções para rodar a aplicação:</h3>
  <ul>
-  <li>Clone este repositório usando: git clone </li>
+  <li>Clone este repositório usando: git clone https://github.com/anadantasp/DesafioCapgemini2022.git</li>
   <li>Importe o projeto no Eclipse</li>
  </ul>
  
